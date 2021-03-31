@@ -8,4 +8,4 @@ import scrapy
 
 class EbayVehiclesItem(scrapy.Item):
 
-    year = scrapy.Field()
+    Year = scrapy.Field()
